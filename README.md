@@ -15,15 +15,14 @@
 <p align="left">
 <a href="https://twitter.com/asajan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asajan10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/allen-sajan-2b66a3245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen sajan" height="30" width="40" /></a>
-<a href="https://kaggle.com/allen kuttookaran sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="allen kuttookaran sajan" height="30" width="40" /></a>
-<a href="https://fb.com/allen sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="allen sajan" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/allensajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="allen kuttookaran sajan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/allen.sajan.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="allen sajan" height="30" width="40" /></a>
 <a href="https://instagram.com/its_alleeen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_alleeen_" height="30" width="40" /></a>
-<a href="https://www.behance.net/allen sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="allen sajan" height="30" width="40" /></a>
+<a href="https://www.behance.net/allenksajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="allen sajan" height="30" width="40" /></a>
 <a href="https://medium.com/@allenksajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allenksajan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/blitz_1o1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blitz_1o1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/allenksajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="allenksajan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allenksajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allenksajan" height="30" width="40" /></a>
-<a href="https://discord.gg/377493023342198795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="377493023342198795" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
