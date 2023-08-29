@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allen K Sajan</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://allenksajan.me/](https://allenksajan.me/)
+- 👨‍💻 All of my projects are available [here](https://allenksajan.me/)
 
 - 📫 How to reach me **allenksajan@gmail.com**
 
-- 📄 Know about my experiences [https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf](https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf)
+- 📄 Know about my experiences [here](https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allenkuttookaransajan&show_icons=true&locale=en&layout=compact" alt="allenkuttookaransajan" /></p>
 
