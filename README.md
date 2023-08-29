@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asajan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asajan10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/allen sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen sajan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/allen-sajan-2b66a3245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allen sajan" height="30" width="40" /></a>
 <a href="https://kaggle.com/allen kuttookaran sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="allen kuttookaran sajan" height="30" width="40" /></a>
 <a href="https://fb.com/allen sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="allen sajan" height="30" width="40" /></a>
 <a href="https://instagram.com/its_alleeen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_alleeen_" height="30" width="40" /></a>
