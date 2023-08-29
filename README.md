@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Allen K Sajan</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <a href="https://twitter.com/asajan10" target="blank"><img src="https://img.shields.io/twitter/follow/asajan10?logo=twitter&style=for-the-badge" alt="asajan10" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://allenksajan.me/](https://allenksajan.me/)
 
 - 📫 How to reach me **allenksajan@gmail.com**
 
 - 📄 Know about my experiences [https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf](https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allenkuttookaransajan&show_icons=true&locale=en" alt="allenkuttookaransajan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allenkuttookaransajan&show_icons=true&locale=en&layout=compact" alt="allenkuttookaransajan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allenkuttookaransajan&show_icons=true&locale=en&layout=compact" alt="allenkuttookaransajan" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allenkuttookaransajan&show_icons=true&locale=en" alt="allenkuttookaransajan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allenkuttookaransajan&" alt="allenkuttookaransajan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allenkuttookaransajan&" alt="allenkuttookaransajan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +32,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allenkuttookaransajan&label=Profile%20views&color=0e75b6&style=flat" alt="allenkuttookaransajan" /> </p>
 
+<p align="left"> <a href="https://twitter.com/asajan10" target="blank"><img src="https://img.shields.io/twitter/follow/asajan10?logo=twitter&style=for-the-badge" alt="asajan10" /></a> </p>
