@@ -6,9 +6,9 @@
 
 <div align="center">
 
-📄 Know about my experiences [here](https://allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf)
+📄 Know about my experiences [here](https://allenkuttookaransajan.github.io/allenksajan.me/CV-Allen%20Kuttookaran%20Sajan.pdf)
 
-👨‍💻 All of my projects are available [here](https://allenksajan.me/)
+👨‍💻 All of my projects are available [here](https://allenkuttookaransajan.github.io/allenksajan.me/)
 
 📫 How to reach me <b>allenksajan@gmail.com</b>
 
